@@ -10,7 +10,6 @@ body {
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
-  box-shadow: 15px 15px 10px grey;
 }
 .content {
   width:90%;
