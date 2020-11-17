@@ -10,9 +10,9 @@ body {
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
+  box-shadow: 15px 15px 10px grey;
 }
 .content {
-  background-color:aqua;
   width:90%;
   font-family: 'Quicksand', sans-serif;
   text-align: center;
@@ -20,16 +20,17 @@ body {
   text-transform: uppercase;
   line-height: 150%;
   position: relative;
-  left:120px;
-  top:100px;
+  left:70px;
+  top:150px;
 }
+
 .name {
-  background-color:aquamarine;
   text-align: center;
   width:30%;
   font-family: 'Dancing Script', cursive;
-  font-size:150%;
+  font-size:100%;
   position: relative;
-  left:500px;
-  top:160px;
+  left:450px;
+  top:180px;
+}
   
