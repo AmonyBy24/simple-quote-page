@@ -1,0 +1,35 @@
+* {
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-size:100%;
+}
+body {
+  background-image: url(assets/freedom.jpg);
+  background-repeat:no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.content {
+  background-color:aqua;
+  width:90%;
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+  font-size: 200%;
+  text-transform: uppercase;
+  line-height: 150%;
+  position: relative;
+  left:120px;
+  top:100px;
+}
+.name {
+  background-color:aquamarine;
+  text-align: center;
+  width:30%;
+  font-family: 'Dancing Script', cursive;
+  font-size:150%;
+  position: relative;
+  left:500px;
+  top:160px;
+  
